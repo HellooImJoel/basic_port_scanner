@@ -339,6 +339,6 @@ Más importante aún, este proyecto subraya la importancia del uso responsable y
 
 ## Licencia y Contribuciones
 
-Este proyecto está diseñado para propósitos educativos. Se encourage la experimentación y modificación del código para fines de aprendizaje, siempre dentro del contexto de uso ético y legal.
+Este proyecto está diseñado para propósitos educativos. Se permite la experimentación y modificación del código para fines de aprendizaje, siempre dentro del contexto de uso ético y legal.
 
 Las contribuciones que mejoren la claridad educativa del código o que agreguen características que demuestren principios importantes de seguridad de redes son bienvenidas.
